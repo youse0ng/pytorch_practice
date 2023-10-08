@@ -1,9 +1,10 @@
 ![01_a_pytorch_workflow](https://github.com/youse0ng/pytorch_practice/assets/130890430/6a9f9b40-d53d-4f27-acd1-5f474eedb184)
 
 안녕하세요. 제가 3학년 2학기를 마치고 Machine learning 이론과 Deep Learning 이론을 공부하고 나서
-특정 딥러닝 프레임워크를 시도해봐야겠다는 들었습니다.
+특정 딥러닝 프레임워크를 시도해봐야겠다는 생각이 들었습니다.
 
 그래서 저는 Pytorch 딥러닝 프레임워크를 선택해서 공부를 시작하였습니다.
+
 왜 Pytorch냐라고 묻는다면,
 
 Deeplearning과 관련된 기타 논문들이 PyTorch 프레임워크를 기반으로 구현한 것이 많았습니다.
