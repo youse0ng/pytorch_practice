@@ -1,3 +1,5 @@
+![01_a_pytorch_workflow](https://github.com/youse0ng/pytorch_practice/assets/130890430/6a9f9b40-d53d-4f27-acd1-5f474eedb184)
+
 안녕하세요. 제가 3학년 2학기를 마치고 Machine learning 이론과 Deep Learning 이론을 공부하고 나서
 특정 딥러닝 프레임워크를 시도해봐야겠다는 들었습니다.
 
@@ -11,5 +13,4 @@ Thank you, Daniel.
 
 끝으로 Daniel Bourke의 딥러닝 프로젝트의 workflow 사진을 띄우면서 마무리 짓겠습니다.
 
-이 github가 문제가 될 시에, 삭제를 고려하겠습니다.
-![01_a_pytorch_workflow](https://github.com/youse0ng/pytorch_practice/assets/130890430/6a9f9b40-d53d-4f27-acd1-5f474eedb184)
+이 github가 문제가 될 시에, 삭제하겠습니다.
